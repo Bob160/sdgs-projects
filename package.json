@@ -1,0 +1,14 @@
+{
+  "name": "spu-projects",
+  "version": "1.0.0",
+  "description": "This API contains the list of all SPU projects and their status from 2021 to date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "efio-esien efiom",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
